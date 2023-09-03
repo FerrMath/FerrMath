@@ -1,3 +1,9 @@
+# Olá, sou Matheus Alcantara!
+
+Estudante de analise e desenvolvimento de sistemas<br>Curitiba - PR 
+
+---
+
 <div align="center" style="gap: 10px">
   <img src="https://github-readme-stats.vercel.app/api?username=FerrMath&show_icons=true&theme=transparent&hide_rank=true&hide=contribs&hide_border=true"/>
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FerrMath&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
@@ -7,15 +13,20 @@
 
 ### Main skills:
 <div style="display: grid; inline_gap: 200;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="35" alt="Maf-Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="35" alt="Maf-Python"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Maf-Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="100" alt="Maf-Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="50" alt="Maf-MySQL" />
+
 </div>
 
-### Learning
+#
+
+### I am learning:
 <div style="display: inline_block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="35" alt="Maf_JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" width="35" alt="Maf_HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" width="35" alt="Maf_Css"/>
+     
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="Maf_JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="100" alt="Maf_HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="Maf_Css"/>
 </div>
 
 ---
