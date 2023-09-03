@@ -1,6 +1,8 @@
 # Olá, sou Matheus Alcantara!
 
-Estudante de analise e desenvolvimento de sistemas<br>Curitiba - PR 
+Estudante de analise e desenvolvimento de sistemas<br>Curitiba - PR
+
+*"Uma jornada de mil commits começa com um único push" ~ Gandalf, O dev Sênior*.
 
 ---
 
