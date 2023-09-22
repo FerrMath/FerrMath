@@ -15,9 +15,9 @@ Estudante de analise e desenvolvimento de sistemas<br>Curitiba - PR
 
 ### Main skills:
 <div style="display: grid; inline_gap: 200;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="50" alt="Maf-Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="100" alt="Maf-Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="50" alt="Maf-MySQL" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="75" alt="Maf-Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="75" alt="Maf-Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" width="75" alt="Maf-MySQL" />
 
 </div>
 
@@ -26,9 +26,11 @@ Estudante de analise e desenvolvimento de sistemas<br>Curitiba - PR
 ### I am learning:
 <div style="display: inline_block;">
      
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="50" alt="Maf_JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="100" alt="Maf_HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="50" alt="Maf_Css"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="75" alt="Maf_JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="75" alt="Maf_HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="75" alt="Maf_Css"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="75" alt="Maf_Django" />
+
 </div>
 
 ---
